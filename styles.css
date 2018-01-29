@@ -1,0 +1,66 @@
+html{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: lightcoral;
+    margin: 0px;
+    
+
+}
+.name {
+    float: left;
+    margin: 0px;
+}
+
+
+
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    float: right;
+    
+}
+
+li {
+    list-style: none;
+    float: left;
+}
+
+a {
+    color:white;
+    text-decoration:none;
+
+}
+
+.content {
+    width: 70%;
+    height: 500px;
+    float: left;
+    background-color:#F5F5F5;
+
+}
+
+.sidebar {
+    width: 30%;
+    height: 500px;
+    float: left;
+    background-color:#404040;
+    color: white;
+
+}
+
+p {
+    margin:20px;
+}
